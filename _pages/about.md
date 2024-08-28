@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "About me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+About me
+=========
 
 I am a fourth year Ph.D candidate in Operations Research at the Insitute of Operations Research & Analytics (IORA) at NUS, working with Prof. Andrew Lim and Prof. Jussi Keppo. I earned a BS and MS in Industrial Engineering at EMINES School of Industrial Management, UM6P.
 
