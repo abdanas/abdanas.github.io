@@ -39,10 +39,10 @@ Teaching
 Selected Talks
 =====
 <b>Bayesian Inventory Control with Unobserved Lost Sales and Hedging Opportunities</b>
-- INFROMS Annual Meeting, October 2024, Seattle US (Upcoming Talk)
+- INFORMS Annual Meeting, October 2024, Seattle US (Upcoming Talk)
 
  <b>A Multi-Period Black-Litterman Model</b> 
-  - Quantitative Finance Workship, Singapore Management University, July 2024, Singapore
+  - Quantitative Finance Workshop, Singapore Management University, July 2024, Singapore
   - Mathematics & Decisions Conference, UM6P, December 2023, Morocco
   - International Research & Innovation Seminar, UM6P, December 2023, Morocco
   - INFORMS Applied Probability Society, June 2023, France (Poster Session)
