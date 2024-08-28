@@ -36,7 +36,7 @@ Teaching
 
 **Teaching Assistant**
 - DBA3803 Predictive Analytics in Business  (Undergraduate Core, NUS Business School),  Spring 2024
-- BDC6323 Stochastic Processes (PhD Core, NUS Business School), Fall 2022
+- BDC6112 Stochastic Processes (PhD Core, NUS Business School), Fall 2022
 
 
 Selected Talks
