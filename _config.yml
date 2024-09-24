@@ -10,6 +10,7 @@
 locale                   : "en-US"
 title                    : "Anas Abdelhakmi"
 title_separator          : "-"
+site_title               : "Anas Abdelhakmi"
 name                     : &name "Anas Abdelhakmi"
 description              : &description "personal description"
 url                      : https://anasabdelhakmi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
