@@ -10,7 +10,7 @@ redirect_from:
 About me
 =========
 
-I am a fourth year Ph.D candidate in Operations Research at the Insitute of Operations Research & Analytics (IORA) at NUS, working with Prof. Andrew Lim and Prof. Jussi Keppo. I earned a BS and MS in Industrial Engineering at EMINES School of Industrial Management, UM6P.
+I am a fifth year Ph.D candidate in Operations Research at the Insitute of Operations Research & Analytics (IORA) at NUS, working with Prof. Andrew Lim and Prof. Jussi Keppo. I earned a BS and MS in Industrial Engineering at EMINES School of Industrial Management, UM6P.
 
 I am interested in <b>Data-driven Decision-making</b>, with a focus on leveraging problem structure to develop tailored decision-making tools. My current research lies on the intersection of stochastic control and robust decision-making and learning, with applications in Inventory Management, Financial Engineering, and Personalized Learning. 
 
